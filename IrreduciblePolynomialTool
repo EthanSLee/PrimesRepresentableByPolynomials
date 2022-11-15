@@ -215,7 +215,7 @@ def irreducible_polynomial_values(coefficients=[1,0,3], discF=-12, starters=[6.0
         print("\n")
 				
 #Run the following commands to obtain the results in Corollary 1.1 (or change the input polynomial as you choose)..
-irreducible_polynomial_values([1,0,3],12,[6.0,40]) 										#This corresponds to k^2 + 3
-#irreducible_polynomial_values([1,0,0,-5], 675, [9.9,55]) 						#This corresponds to k^3 - 5
-#irreducible_polynomial_values([1,0,0,0,0,3],253125, [9.9,100]) 			#This corresponds to k^5 + 3
+irreducible_polynomial_values([1,0,3],12,[6.0,40]) 			#This corresponds to k^2 + 3
+#irreducible_polynomial_values([1,0,0,-5], 675, [9.9,55]) 		#This corresponds to k^3 - 5
+#irreducible_polynomial_values([1,0,0,0,0,3],253125, [9.9,100]) 	#This corresponds to k^5 + 3
 #irreducible_polynomial_values([2,0,0,0,0,0,3],-362797056,[9.9,120]) 	#This corresponds to 2*k^6 + 3
