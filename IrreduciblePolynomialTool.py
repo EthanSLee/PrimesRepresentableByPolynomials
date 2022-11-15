@@ -1,3 +1,8 @@
+"""
+Version: 15 November 2022
+Author: Ethan S. Lee
+"""
+
 from scipy.special import zeta, zetac, polygamma, factorial, erfc
 from numpy import sqrt
 import sympy as sym
